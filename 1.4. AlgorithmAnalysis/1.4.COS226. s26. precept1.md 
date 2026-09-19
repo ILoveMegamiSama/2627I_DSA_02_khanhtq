@@ -1,0 +1,23 @@
+1. 
+~ 1/2 * n
+Big Theta: n
+
+2. 
+~ 3log(n)
+Big Theta: log(n)
+
+3. 
+~ 100 * n
+Big Theta: n
+
+4. 
+~ n ^ (1 / 2) * log3(n)
+Big Theta: n ^ (1 / 2) * log3(n)
+
+5.
+~ nlog(n)
+Big Theta: nlog(n)
+
+6. 
+~ 50 * n^3
+Big Theta: n^3
